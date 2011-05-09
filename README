@@ -1,0 +1,6 @@
+# RemarkedUp
+RemarkedUp transforms markup files into HTML with a nice typography.
+
+## What's behind RemarkedUp
+RemarkedUp uses MarkdownSharp (http://code.google.com/p/markdownsharp/) to transform, Blueoprint CSS for grid layout (the content column gets smaller) 
+and some custom css extensions for nicer typography.
